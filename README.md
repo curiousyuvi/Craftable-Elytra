@@ -1,5 +1,2 @@
-# Title
-Description
-
-**Developed for:**
-https://www.youtube.com/@nitwitsMC
+# Craftable Elytra
+Allows you to craft Elytras!
