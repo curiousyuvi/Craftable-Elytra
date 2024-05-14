@@ -1,2 +1,2 @@
 # Craftable Elytra
-Allows you to craft Elytras!
+Adds a recipe for the elytra!
