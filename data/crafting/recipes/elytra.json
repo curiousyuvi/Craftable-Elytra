@@ -1,13 +1,19 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "###",
-        "###",
-        "###"
+        "SNS",
+        "P P",
+        "P P"
     ],
     "key": {
-        "#": {
-            "item": "minecraft:air"
+        "S": {
+            "item": "minecraft:string"
+        },
+        "N": {
+            "item": "minecraft:nether_star"
+        },
+        "P": {
+            "item": "minecraft:phantom_membrane"
         }
     },
     "result": {
