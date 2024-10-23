@@ -6,15 +6,9 @@
         "P P"
     ],
     "key": {
-        "S": {
-            "item": "minecraft:string"
-        },
-        "N": {
-            "item": "minecraft:nether_star"
-        },
-        "P": {
-            "item": "minecraft:phantom_membrane"
-        }
+        "S": "minecraft:string",
+        "N": "minecraft:nether_star",
+        "P": "minecraft:phantom_membrane"
     },
     "result": {
         "id": "minecraft:elytra",
