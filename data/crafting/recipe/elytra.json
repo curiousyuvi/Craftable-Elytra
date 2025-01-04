@@ -7,7 +7,7 @@
     ],
     "key": {
         "S": "minecraft:string",
-        "N": "minecraft:nether_star",
+        "N": "minecraft:netherrack",
         "P": "minecraft:phantom_membrane"
     },
     "result": {
